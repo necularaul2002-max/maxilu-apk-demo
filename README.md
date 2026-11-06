@@ -9,7 +9,7 @@
 
 MAXILU APK is the Android companion application for the MAXILU ecosystem. It is designed as a mobile control and interaction surface for MAXILU Desktop/Core, including AI-related workflows and task monitoring.
 
-This repository is a curated public portfolio extract. It is separate from the private development repository and is intended to show selected non-confidential implementation work.
+This repository is a curated public portfolio space, separate from the private development repository.
 
 ## Technology and engineering areas
 
@@ -18,9 +18,9 @@ This repository is a curated public portfolio extract. It is separate from the p
 - Reusable UI components and bottom navigation
 - Mobile-to-desktop architecture through a Gateway boundary
 - AI model-selection and task-oriented interaction concepts
-- Task, approval, pairing and notification workflows in the private V10 application
+- Task, approval, pairing and notification workflows documented in the private V10 project
 
-These describe the project's documented implementation areas. They do not mean that every backend service or end-to-end workflow is included in this public repository or currently online.
+These describe the project's documented implementation areas. They do not mean every backend service or end-to-end workflow is included here or currently online.
 
 ## Architecture
 
@@ -42,21 +42,27 @@ Task result returned to the mobile app
 
 The Android app is a client. A screen or API contract does not prove that a corresponding Desktop/Core service is available.
 
-## Public demo scope
+## Files currently included
 
-The public repository is intended to contain:
-- selected genuine Android UI source files from V10;
-- non-confidential visual resources;
-- high-level architecture and feature documentation.
+- `docs/ARCHITECTURE.md` — high-level system architecture
+- `docs/FEATURE-MAP.md` — feature areas and public/private boundaries
+- `docs/V10-IMPLEMENTATION-SUMMARY.md` — summary of documented V10 work
+- `source/README.md` — intended scope for selected Android source excerpts
 
-It does not contain the complete private application source, Gateway client implementation, private API contracts, pairing/session code, credentials, signing configuration, internal datasets or deployment secrets.
+**Current repository status:** documentation only. The selected Java source files, visual resources, screenshots and APK have not yet been transferred or published.
 
 ## Current limitations
 
-- This repository is a curated portfolio extract, not a full clone of the private V10 project.
+- This repository is not a full clone of the private V10 project.
 - No installable APK is currently published here.
 - The private Gateway/Desktop/Core services are not exposed by this repository.
-- The public extract is not represented as a separately built or end-to-end validated release.
+- The public demo is not represented as a separately built or end-to-end validated release.
+
+## Privacy boundary
+
+The public repository is intended to exclude API keys, access tokens, passwords, signing credentials, pairing/session material, private device identifiers, internal Gateway implementation, private API contracts, deployment configuration and internal datasets.
+
+The original private MAXILU APK repository remains unchanged.
 
 ## Personal project disclosure
 
