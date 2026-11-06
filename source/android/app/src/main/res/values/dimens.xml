@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 4dp base spacing scale -->
+    <dimen name="maxilu_space_1">4dp</dimen>
+    <dimen name="maxilu_space_2">8dp</dimen>
+    <dimen name="maxilu_space_3">12dp</dimen>
+    <dimen name="maxilu_space_4">16dp</dimen>
+    <dimen name="maxilu_space_5">20dp</dimen>
+    <dimen name="maxilu_space_6">24dp</dimen>
+    <dimen name="maxilu_space_8">32dp</dimen>
+    <dimen name="maxilu_space_10">40dp</dimen>
+
+    <!-- Shape scale -->
+    <dimen name="maxilu_radius_small">10dp</dimen>
+    <dimen name="maxilu_radius_medium">14dp</dimen>
+    <dimen name="maxilu_radius_large">18dp</dimen>
+    <dimen name="maxilu_radius_xlarge">24dp</dimen>
+    <dimen name="maxilu_radius_pill">999dp</dimen>
+
+    <!-- Touch targets and navigation -->
+    <dimen name="maxilu_touch_target_min">48dp</dimen>
+    <dimen name="maxilu_button_height">48dp</dimen>
+    <dimen name="maxilu_navigation_height">72dp</dimen>
+    <dimen name="maxilu_icon_small">18dp</dimen>
+    <dimen name="maxilu_icon_medium">22dp</dimen>
+    <dimen name="maxilu_icon_large">28dp</dimen>
+
+    <!-- Typography -->
+    <dimen name="maxilu_text_caption">12sp</dimen>
+    <dimen name="maxilu_text_body_small">14sp</dimen>
+    <dimen name="maxilu_text_body">16sp</dimen>
+    <dimen name="maxilu_text_title">20sp</dimen>
+    <dimen name="maxilu_text_headline">26sp</dimen>
+
+    <!-- Layout -->
+    <dimen name="maxilu_screen_horizontal_padding">20dp</dimen>
+    <dimen name="maxilu_card_padding">16dp</dimen>
+    <dimen name="maxilu_card_gap">12dp</dimen>
+</resources>
