@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAXILU Pocket V12 — dark graphite foundation -->
+    <color name="maxilu_background">#090B10</color>
+    <color name="maxilu_surface">#11151D</color>
+    <color name="maxilu_surface_elevated">#171D28</color>
+    <color name="maxilu_surface_high">#202838</color>
+    <color name="maxilu_outline">#293244</color>
+    <color name="maxilu_outline_subtle">#1D2532</color>
+
+    <color name="maxilu_text_primary">#F4F6FA</color>
+    <color name="maxilu_text_secondary">#A4ADBC</color>
+    <color name="maxilu_text_muted">#778296</color>
+    <color name="maxilu_text_on_accent">#FFFFFF</color>
+
+    <!-- Preserve the established MAXILU magenta identity; violet is its secondary accent. -->
+    <color name="maxilu_accent">#D946EF</color>
+    <color name="maxilu_accent_pressed">#C026D3</color>
+    <color name="maxilu_accent_soft">#33203A</color>
+    <color name="maxilu_accent_secondary">#8B5CF6</color>
+
+    <color name="maxilu_status_success">#35C98A</color>
+    <color name="maxilu_status_warning">#F5B84B</color>
+    <color name="maxilu_status_error">#F06A78</color>
+    <color name="maxilu_status_info">#58A6FF</color>
+
+    <color name="maxilu_overlay">#99000000</color>
+    <color name="maxilu_scrim">#CC05070B</color>
+</resources>

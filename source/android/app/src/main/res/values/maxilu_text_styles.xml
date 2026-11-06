@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaxiluText.Caption" parent="android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/maxilu_text_caption</item>
+        <item name="android:textColor">@color/maxilu_text_muted</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="MaxiluText.BodySmall" parent="android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/maxilu_text_body_small</item>
+        <item name="android:textColor">@color/maxilu_text_secondary</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="MaxiluText.Body" parent="android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/maxilu_text_body</item>
+        <item name="android:textColor">@color/maxilu_text_primary</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="MaxiluText.Title" parent="android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/maxilu_text_title</item>
+        <item name="android:textColor">@color/maxilu_text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+    <style name="MaxiluText.Headline" parent="android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/maxilu_text_headline</item>
+        <item name="android:textColor">@color/maxilu_text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
